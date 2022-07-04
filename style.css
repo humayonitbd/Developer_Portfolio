@@ -74,3 +74,44 @@ img{
     justify-content: left;
     align-items: center;
 }
+.experiance-aria{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+
+}
+.experiance-aria .all-sec{
+    padding: 0;
+    
+}
+.experiance-aria h1{
+   font-size: 50px;
+   margin-bottom: 50px;
+    
+}
+
+.experianc-item{
+    width: 40%;
+    box-shadow: 10px 10px 20px gray;
+    margin: 0 5%;
+    padding: 50px 0 40px 20px;
+    border-radius: 10px;
+    
+
+}
+.fullStrakDeveloper{
+    border-left: 7px solid tomato;
+   
+}
+.fullStrakDeveloper2{
+    border-left: 7px solid blue;
+   
+}
+
+.experiance-aria h2{
+    font-size: 35px;
+}
+
+footer p{
+    text-align: center;
+}
