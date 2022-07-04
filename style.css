@@ -13,6 +13,7 @@ body{
 .top-banar{
     background-image: url(images/top-banner.png);
     background-size: cover;
+    margin-bottom: 100px;
     
 }
 
@@ -60,4 +61,16 @@ img{
     border-radius: 5px;
     color: white;
     font-weight: 700;
+}
+
+.dream-bem{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.dream-bem .right-image{
+    display: flex;
+    justify-content: left;
+    align-items: center;
 }
